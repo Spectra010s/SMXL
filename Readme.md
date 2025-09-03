@@ -46,7 +46,7 @@ Think of it as **next-generation HTML**, with cleaner tags, nested “boxes,” 
     (/box)
 (/body)
 (/smxl)
-
+````
 ---
 
 Future Vision
@@ -58,7 +58,6 @@ Recognizes SMXL syntax
 Supports other languages like HTML, CSS, JS, Node.js
 
 Works on phones, laptops, and desktops
-
 
 Provide a complete ecosystem for SMXL coding and running
 
@@ -78,5 +77,6 @@ Building the future SMXL editor
 
 Documentation, tutorials, and examples
 
+---
 
 If you want to join the team, reach out or submit a pull request. Let’s build this new world together 🌎✨
